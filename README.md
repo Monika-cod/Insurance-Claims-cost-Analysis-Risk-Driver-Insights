@@ -83,7 +83,8 @@ Premium Personalisation: Adjust premiums for high-risk groups (smokers, high BMI
 Early Risk Identification: Track high-risk profiles early (older age + obesity).
 Preventative Health Care: Encourage early screenings to reduce long-term costs.
 
-Insurance-Charges-Analysis png
+Insurance-Charges-Analysis png link
+https://github.com/Monika-cod/Insurance-Charges-Analysis/blob/main/Insurance%20Dash.img.png
 
 
 
